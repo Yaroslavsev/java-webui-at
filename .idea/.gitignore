@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/target/
+.idea
+java-webui-at.iml
+*.iml
+logs
